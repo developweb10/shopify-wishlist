@@ -1,4 +1,4 @@
-# OS generated files #
+﻿# OS generated files #
 ######################
 *.DS_Store*
 .DS_Store?
@@ -17,7 +17,3 @@ _*
 node_modules/
 dist/
 .env
-branch_structure.json
-temp_auto_push.bat
-temp_interactive_push.bat
-.gitignore
